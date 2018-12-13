@@ -1,4 +1,4 @@
-# AKASH-GUPTA
+# Logistic Regression Project(System admin dataset)
 I am a graduate student at University of Texas at Dallas pursuing my Masters in Business Analytics.
 
 Logistic Regression
