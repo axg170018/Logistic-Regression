@@ -1,5 +1,5 @@
 ---
-title: "Hw2_Sys_Admin_Gupta(axg170018)"
+title: "_Admin_Gupta"
 author: "Akash Gupta"
 date: "11/3/2018"
 output: html_document
