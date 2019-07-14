@@ -1,5 +1,4 @@
 ---
-title: ""
 author: "Akash Gupta"
 date: "11/3/2018"
 output: html_document
