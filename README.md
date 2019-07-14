@@ -1,5 +1,5 @@
 # Logistic Regression Project(System admin dataset)
-I am a graduate student at University of Texas at Dallas pursuing my Masters in Business Analytics.
+I am a graduate student at University of Texas at Dallas pursuing my Masters in Business Analytics.This is a basic example of implementation of Logistic regression using R studio.
 
 Logistic Regression
 Ledoitte, a management consulting firm, is studying the roles played by experience and
